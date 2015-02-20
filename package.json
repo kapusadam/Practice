@@ -1,0 +1,30 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kapusadam/Practice.git"
+  },
+  "keywords": [
+    "Angularjs",
+    "practice"
+  ],
+  "author": "adam@kruppa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapusadam/Practice/issues"
+  },
+  "homepage": "https://github.com/kapusadam/Practice",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
